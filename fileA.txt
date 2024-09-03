@@ -1,6 +1,6 @@
 not secret
 
-***REMOVED***
+SECRET
 here secret
 
 abc
